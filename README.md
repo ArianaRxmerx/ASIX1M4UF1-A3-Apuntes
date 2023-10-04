@@ -46,3 +46,6 @@ Este texto está en __*negrita y cursiva*__
 |Col 3 es |Derceha|134€|
 |Estilo Cebra|Girls|Blanco|
 |Clase|ASIX|M4|
+-[ ]Opción A
+-[X]Opción B
+-[ ]Opción C 
